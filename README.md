@@ -1,5 +1,5 @@
 # RP4K Pizza Bandit
-This is a game I made with RP4K (Real Programming for Kids) in 2017. It was one of the first games I ever made and it was the first game I ever made with a real GUI.
+This is a game I made with RP4K (Real Programming for Kids) in 2016-17. It was one of the first games I ever made and it was the first game I ever made with a real GUI.
 
 # How do I play it?
 You can download the origonal executable by clicking [here](https://github.com/GrantBGreat/RP4K-Pizza-Bandit/releases/download/v1.0/Pizza_Bandit.exe), or view releases [here](https://github.com/GrantBGreat/RP4K-Pizza-Bandit/releases). Your browser may flag the executable as dangerous, but I promise it is not. If you dont belive me, go see for yourself with the source code above. 🤷‍♂️ 
