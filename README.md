@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/GrantBGreat/RP4K-Pizza-Bandit/total)
 # RP4K Pizza Bandit
 This is a game I made with RP4K (Real Programming for Kids) in 2016-17. It was one of the first games I ever made and it was the first game I ever made with a real GUI.
 
